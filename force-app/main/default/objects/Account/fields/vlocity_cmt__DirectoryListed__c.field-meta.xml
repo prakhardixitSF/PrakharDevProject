@@ -7,5 +7,6 @@
     <externalId>false</externalId>
     <label>Directory Listed</label>
     <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
     <type>Checkbox</type>
 </CustomField>
