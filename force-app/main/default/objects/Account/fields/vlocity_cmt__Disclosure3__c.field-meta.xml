@@ -7,5 +7,6 @@
     <externalId>false</externalId>
     <label>Money Lending/Pawning</label>
     <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
     <type>Checkbox</type>
 </CustomField>
